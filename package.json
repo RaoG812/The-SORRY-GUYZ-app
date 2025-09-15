@@ -1,0 +1,7 @@
+{
+  "name": "panel-of-testers-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build"
+  }
+}

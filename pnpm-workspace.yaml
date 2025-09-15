@@ -1,0 +1,3 @@
+packages:
+  - "panel-of-testers/extension"
+  - "panel-of-testers/server"
